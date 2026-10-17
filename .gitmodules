@@ -1,0 +1,3 @@
+[submodule "My-ToDo-App"]
+	path = My-ToDo-App
+	url = https://github.com/D-hyunny/My-ToDo-App.git
